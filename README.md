@@ -24,13 +24,17 @@ An AI-powered web application for analyzing legal documents and detecting compli
 ## 📷 Screenshots
 
 ### 🔹 Home Page
-![Home](images/home.png)
+[![Home](images/home.png)](images/home.png)
+
 
 ### 🔹 Login Page
-![Login](images/login.png)
+[![Login](images/login.png)](images/home.png)
 
 ### 🔹 Dashboard
-![Dashboard](images/dashboard.png)
+[![Dashboard](images/dashboard.png)](images/dashboard.png)
+
+### register page
+[![register](images/register.png)](images/register.png)
 
 ---
 
